@@ -1,0 +1,11 @@
+{
+  "name": "bone-css-sprite",
+  "version": "0.0.1",
+  "description": "css-sprite",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  	"css-sprite": "~0.9.0"
+  }
+}
