@@ -3,9 +3,13 @@
   "version": "0.0.1",
   "description": "css-sprite",
   "main": "index.js",
-  "author": "",
+  "author": {
+    "name": "wyicwx",
+    "email": "wyicwx@gmail.com",
+    "web": "http://weibo.com/simplemaple"
+  },
   "license": "MIT",
   "dependencies": {
-  	"css-sprite": "~0.9.0"
+    "css-sprite": "~0.9.0"
   }
 }
