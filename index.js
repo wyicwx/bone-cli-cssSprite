@@ -23,6 +23,9 @@ module.exports = function(command, bone) {
 					cmder[opt] = bone.fs.pathResolve(cmder[opt]);
 				}
 			});
+			if(cmder['cssImagePath']) {
+				cmder['cssPath'] = cmder['cssImagePath']
+			}
 			cssSprite.create(cmder);
 		});
 };
