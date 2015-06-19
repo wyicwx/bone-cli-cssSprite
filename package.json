@@ -1,5 +1,5 @@
 {
-  "name": "bone-css-sprite",
+  "name": "bone-cli-cssSprite",
   "version": "0.0.4",
   "description": "css-sprite",
   "main": "index.js",
